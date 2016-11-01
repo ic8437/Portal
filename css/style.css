@@ -1,0 +1,125 @@
+.banner{
+	position: relative;
+	width: 100%;
+	height: 110px;
+}
+.loggober{
+	position: relative;
+	margin-right: 550px;
+}
+.logcreemos{
+	position: relative;
+	margin-top: -90px;
+}
+.logtic{
+	position: relative;
+	margin-left: 550px;
+	margin-top: -90px;	
+}
+.lrojo{
+	background-color: #E41015;
+	width: 100%;
+	height: 68px;
+	margin-top: 220px;
+}
+.lverde{
+	width: 100%;
+	height: 66px;
+	margin-top: 33px;
+	background-color: #389436;
+}
+.verde01{
+	position: relative;
+	width: 675px;
+	height: 116px;
+	margin-top: -65px;
+	margin-left: 240px;
+}
+.marimg{
+	position: absolute;
+	width: 546px;
+	height: 297px;
+	margin-left: -170px;
+	margin-top: -50px;
+}
+.mapaimg{
+	position: absolute;
+	width: 548px;
+	height: 482px;
+	margin-left: -476px;
+	margin-top: -50px;
+	z-index: 1;
+	text-align: center;
+}
+.btn{
+	position: relative;
+	width: 143px;
+	height: 359px;
+	text-align: center;
+	margin: -2px;
+	border-radius: 0px;
+	z-index: 1;
+}
+.bandera{
+	position: relative;
+	width: 100%;
+	height: 17px;
+	margin-top: 50px;
+}
+.estadisticas{
+	position: relative;
+	width: 100%;
+	height: 201px;
+	background-color: #FDFCD3;
+}
+.pie{
+	background-color: #aab9bc;
+	opacity: 80%;
+	width: 100%;
+	height: 110px;
+	margin-top: -16px;
+}
+h3{
+	font-family: Arial, Helvetica, sans-serif; 
+	color: white;
+}
+.lupa1{
+    width: 462px;
+    height: 235px;
+	z-index: 2;	
+	margin-top: 0px;
+}
+.lupaimg {
+    z-index: 2;
+    position: absolute;
+    -webkit-animation-name: example;
+    -webkit-animation-duration: 4s; 
+    animation-name: example;
+    animation-duration: 4s;
+    left:0px;
+    top:125px;
+}
+@-webkit-keyframes example {
+    0%   {left:-400px; top:125px;}
+    100%  {left:0px; top:125px;}   
+}
+.lupa2{
+    width: 462px;
+    height: 235px;
+	z-index: 2;	
+	margin-top: 0px;
+}
+.lupaimg1{
+    z-index: 2;
+    position: absolute;
+    -webkit-animation-name: examplea;
+    -webkit-animation-duration: 4s; 
+    animation-name: examplea;
+    animation-duration: 4s;
+    right: 0px;
+    top:125px;
+}
+@-webkit-keyframes examplea {
+    0%   {right:-400px; top:125px;}
+    100%  {right:0px; top:125px;}   
+}
