@@ -306,7 +306,8 @@ h3{
 	text-decoration: none;
 }
 .container{
-	background-color: #ffe4d0;
+	background-color: #f9c78e;
+	opacity: 0.4;
 	width: 850px;
 	height: 500px;
 	display: inline-block;
@@ -314,4 +315,40 @@ h3{
 .container1{
 	width: 100%;
 	height: auto;
+}
+/* diseños para la pestaña municipios.
+Pero se toman estilos de las pestañas anteriores */
+.container2{
+	background-color: #f3a894;
+	opacity: 0.6;
+	width: 850px;
+	height: 500px;
+	display: inline-block;
+}
+/* diseños para la pestaña Gobierno en Línea.
+Pero se toman estilos de las pestañas anteriores */
+.container3{
+	background-color: #afe0cf;
+	opacity: 0.9;
+	width: 850px;
+	height: 500px;
+	display: inline-block;
+}
+/* diseños para la pestaña Documentos.
+Pero se toman estilos de las pestañas anteriores */
+.container4{
+	background-color: #a9fdb0;
+	opacity: 0.7;
+	width: 850px;
+	height: 500px;
+	display: inline-block;
+}
+/* diseños para la pestaña Contactenos.
+Pero se toman estilos de las pestañas anteriores */
+.container5{
+	background-color: #8eb7db;
+	opacity: 0.4;
+	width: 850px;
+	height: 500px;
+	display: inline-block;
 }
