@@ -75,9 +75,9 @@
 .pie{
 	background-color: #aab9bc;
 	opacity: 80%;
-	width: 100%;
-	height: 90px;
-	margin-top: -16px;
+	width: auto;
+	height: auto;
+	margin-top: -12px;
 }
 h3{
 	font-family: Arial, Helvetica, sans-serif; 
@@ -243,7 +243,7 @@ h3{
 	font-weight: bold;
 	z-index: 3;
 	margin-top: 50px;
-	margin-left: -125px;
+	margin-left: -130px;
 }
 .txt5{
 	position: absolute;
@@ -334,14 +334,31 @@ Pero se toman estilos de las pestañas anteriores */
 	height: 500px;
 	display: inline-block;
 }
-/* diseños para la pestaña Documentos.
+/* diseños para la pestaña transparencia la ultima modificación.
 Pero se toman estilos de las pestañas anteriores */
 .container4{
 	background-color: #a9fdb0;
 	opacity: 0.7;
 	width: 850px;
-	height: 500px;
+	height: auto;
 	display: inline-block;
+}
+.cuerpo p a{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	font-style: italic;
+	font-weight: bold;
+}
+.cuerpo{
+	margin: 30px 30px 30px 30px;
+}
+.cuerpo p{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	font-weight: normal;
+	
 }
 /* diseños para la pestaña Contactenos.
 Pero se toman estilos de las pestañas anteriores */
